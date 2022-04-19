@@ -11,3 +11,10 @@ a:hover{
     width: 25px;
     height:25px;
 }
+.proyectos h2{
+    text-align: center;
+    color: blue;
+}
+.instituciones h2{
+    text-align: center;
+}
